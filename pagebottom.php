@@ -3,20 +3,20 @@
 				<h2>while( !dead ) </br>{</h2>
 				<ul class="style2">
 					<li class="first">
-						<h3><a href="/software">Programming;</a></h3>
+						<h3><a href="software.php">Programming;</a></h3>
 						<p><a href="http://stackoverflow.com/">Unhandled exception: Stack overflow</a></p>
 					</li>
 					<li>
 						<h3><a href="http://reddit.com">Reddit;</a></h3>
-						<p><a href="http://reddit.com">Time is an illusion anyway, lets reddit!</a></p>
+						<p><a href="http://reddit.com">Time is an illusion anyway, let's reddit!</a></p>
 					</li>
 					<li>
 						<h3><a href="http://www.reddit.com/r/starcraft/">Starcraft;</a></h3>
-						<p><a href="http://www.teamliquid.net/video/streams/">Streams!!!</a></p>
+						<p><a href="http://www.teamliquid.net/video/streams/">Streams!</a></p>
 					</li>
 					<li>
 						<h3><a href="http://www.sidereel.com/profile/crovea">TV Series;</a></h3>
-						<p><a href="http://www.sidereel.com/profile/crovea">Here's a list of my favorite tv series!</a></p>
+						<p><a href="http://www.sidereel.com/profile/crovea">Here's a list of my favorite TV series!</a></p>
 					</li>
 				</ul>
 				<h2>}</h2>
@@ -36,10 +36,10 @@
 		<div id="tbox2">
 			<h2>Contact</h2>
 			<ul class="style1">
-				<li class="first"><a href="">Phone: 60734859</a></li>
-				<li><a href="">Email: jjonj@hotmail.com</a></li>
-				<li><a href="">Skype: jjonjex</a></li>
-				<li><a href="">Games: Crovea</a></li>
+				<li class="first">Phone: 60734859</li>
+				<li>Email: jjonj@hotmail.com</li>
+				<li>Skype: jjonjex</li>
+				<li>Games: Crovea</li>
 			</ul>
 		</div>
 		<div id="tbox3">
