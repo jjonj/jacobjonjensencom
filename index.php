@@ -15,7 +15,6 @@
 	$q[] = array( 'quote' => 'Logic will get you from A to B. Imagination will take you everywhere.', 'author' => 'Albert Einstein' );
 	$q[] = array( 'quote' => 'Anyone who has never made a mistake has never tried anything new.', 'author' => 'Albert Einstein' );
 	$q[] = array( 'quote' => 'Everything should be made as simple as possible, but not simpler.', 'author' => 'Albert Einstein' );
-	$q[] = array( 'quote' => '', 'author' => 'Albert Einstein' );
 	//$q[] = array( 'quote' => '', 'author' => 'Albert Einstein' );
 	
 	$daily_quote = $q[array_rand($q)];
