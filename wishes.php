@@ -18,7 +18,7 @@
 			<tr><td>- Boremaskine</tr>
 			<tr><td>- Futsko</tr>
 			<tr><td>- Stor vasket&#248;jskurv</tr>
-			<tr><td>- Brug cykel</tr>
+			<tr><td>- Brugt cykel</tr>
 			<tr><td>- Halst&#248;rkl&#230;de</tr>
 			</table>
 			</h3>
