@@ -3,12 +3,12 @@
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html;" charset="ISO-8859-1"/>
+<meta http-equiv="Content-Type" content="text/html;" charset="utf-8"/>
 <title></title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
-<link href="css/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../css/default.css" rel="stylesheet" type="text/css" media="all" />
 
 </head>
 <body>
@@ -22,39 +22,34 @@
 			<ul>
 				<li><a href="/jjj" title="">Home</a></li>
 				<li><a href="#" title="">Software</a></li>
-				<li><a href="wishes" title="">Julegave �nsker</a></li>
+				<li><a href="wishes" title="">Julegave Ønsker</a></li>
 				<!--<li><a href="#" title="">File index</a></li>-->
 				<li><a href="#" title="">About Jacob J. J.</a></li>
 			</ul>
 		</div>
 	</div>
-	<?php
-	
-	$q = Array();
-	$q[] = array( 'quote' => 'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.', 'author' => 'Antoine de Saint-Exup�ry');
-	$q[] = array( 'quote' => 'Do not seek to follow in the footsteps of the men of old; seek what they sought.', 'author' => 'Basho' );
-	$q[] = array( 'quote' => 'I am patient with stupidity but not with those who are proud of it.', 'author' => 'Edith Sitwell' );
-	$q[] = array( 'quote' => 'Never be afraid to laugh at yourself, after all, you could be missing out on the joke of the century.', 'author' => 'Dame Edna Everage' );
-	$q[] = array( 'quote' => 'Believe those who are seeking the truth. Doubt those who find it.', 'author' => 'Andr� Gide' );
-	$q[] = array( 'quote' => 'The avalanche has already started, it is too late for the pebbles to vote.', 'author' => 'Kosh' );
-	$q[] = array( 'quote' => 'It�s not that I�m so smart, it�s just that I stay with problems longer.', 'author' => 'Albert Einstein' );
-	$q[] = array( 'quote' => 'Education is what remains after one has forgotten what one has learned in school.', 'author' => 'Albert Einstein' );
-	$q[] = array( 'quote' => 'Logic will get you from A to B. Imagination will take you everywhere.', 'author' => 'Albert Einstein' );
-	$q[] = array( 'quote' => 'Anyone who has never made a mistake has never tried anything new.', 'author' => 'Albert Einstein' );
-	$q[] = array( 'quote' => 'Everything should be made as simple as possible, but not simpler.', 'author' => 'Albert Einstein' );
-	//$q[] = array( 'quote' => '', 'author' => 'Albert Einstein' );
-	
-	$daily_quote = $q[array_rand($q)];
 
-	?>
 	<div id="page">
 		<div id="content">
-			<h2>"<?php echo $daily_quote['quote']; ?>"</h2>
-			<h3><strong>- <?php echo $daily_quote['author'];?></strong></h3>
-			</br>
-			<p><img src="images/img02.jpg" width="750" height="250" alt="" /></p>
-			<p>Welcome to the site of <strong>Jacob Jon Jensen</strong>, an independant computer science student at Aalborg University.</p>
-			<p></p>
+			<h2>Jacob's Julegave ønsker!</h2>
+			<p><img src="images/xmasbanner.jpg" width="750" height="250" alt="" /></p>
+			<p>
+			<h3 class="wishes">
+			<table>
+			<tr><td>- Rygsæk (Til bærbar og bøger)</tr>
+			<tr><td>- Opslags bord (Noget i stil med den <a href="http://www.harald-nyborg.dk/images/1063.jpg">HER</a>)</tr>
+			<tr><td>- Håndstøvsuger</tr>
+			<tr><td>- Æggekoger</td></tr>
+			<tr><td>- Gæste madras</tr>
+			<tr><td>- Boremaskine</tr>
+			<tr><td>- Futsko</tr>
+			<tr><td>- Stor vasketøjskurv</tr>
+			<tr><td>- Brug cykel</tr>
+			<tr><td>- Halstørklæde</tr>
+			</table>
+			</h3>
+			</p>
+			</p>
 		</div>
 		<div id="sidebar">
 			<div id="tbox1">
