@@ -8,7 +8,7 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
-<link href="../css/default.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../CSS/default.css" rel="stylesheet" type="text/css" media="all" />
 
 </head>
 <body>
@@ -20,9 +20,9 @@
 		</div>
 		<div id="menu">
 			<ul>
-				<li><a href="/jjj" title="">Home</a></li>
+				<li><a href="/" title="">Home</a></li>
 				<li><a href="#" title="">Software</a></li>
-				<li><a href="wishes" title="">Julegave Ønsker</a></li>
+				<li><a href="/wishes" title="">Julegave Ønsker</a></li>
 				<!--<li><a href="#" title="">File index</a></li>-->
 				<li><a href="#" title="">About Jacob J. J.</a></li>
 			</ul>
