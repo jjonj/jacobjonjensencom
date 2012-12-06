@@ -36,10 +36,10 @@
 		<div id="tbox2">
 			<h2>Contact</h2>
 			<ul class="style1">
-				<li class="first">Phone: 60734859</li>
+				<li class="first">Phone: +45 60734859</li>
 				<li>Email: jjonj@hotmail.com</li>
 				<li>Skype: jjonjex</li>
-				<li>Games: Crovea</li>
+				<li>Games: Crovea</li>	
 			</ul>
 		</div>
 		<div id="tbox3">

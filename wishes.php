@@ -3,7 +3,7 @@
 ?>
 	<div id="page">
 		<div id="content">
-			<h2>Jacob's Julegave &#248;nsker!</h2>
+			<h2>Jacob's Julegave&#248;nsker!</h2>
 			<p><img src="../images/xmastop.jpg" width=750 alt="" /></p>
 			
 			<p>
